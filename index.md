@@ -14,9 +14,11 @@ Hello, my name is **Spencer**
 print("Block Code")
 ```
 
+I like word games and puzzles
 [Play the Daily Squaredle](https://squaredle.app/)
 
-[Top 500 Showdown Player](showdown.png)
+I am a top 500 Pokemon Showdown Player
+![Top 500 Showdown Player](showdown.png)
 
 Ordered List
 1. First item
