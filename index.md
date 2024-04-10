@@ -20,18 +20,19 @@ I like word games and puzzles
 I am a top 500 Pokemon Showdown Player
 ![Top 500 Showdown Player](showdown.png)
 
-Ordered List
-1. First item
-2. Second item
-3. Third item
-4. Fourth item
+Favorite Foods
+1. Spring Rolls
+2. KBBQ
+3. Pasta
+4. Pizza
 
-Unordered List
-- First item
-- Second item
-- Third item
-- Fourth item
+Countries I have been to
+- USA
+- Canada
+- Mexico
+- Japan
+- Korea
 
-Task List
-- [ ] incomplete task
-- [x] completed task
+Things I have accomplished
+- [ ] Pass CSE110
+- [x] Lab 1
